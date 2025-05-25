@@ -150,4 +150,3 @@ The project serves as both a functional personal assistant and a portfolio piece
 
 ---
 
-*Built with ❤️ using cutting-edge AI technologies*
